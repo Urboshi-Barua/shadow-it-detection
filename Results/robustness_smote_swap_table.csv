@@ -1,0 +1,5 @@
+Train user,Test user,SMOTE,Accuracy,Precision,Recall,F1-Score,Max malicious-row probability
+JCE0258,RCW0822,False,0.9998,0.0,0.0,0.0,0.0
+JCE0258,RCW0822,True,0.9998,0.0,0.0,0.0,0.0
+RCW0822,JCE0258,False,0.9994,0.0,0.0,0.0,0.0
+RCW0822,JCE0258,True,0.9994,0.0,0.0,0.0,0.0

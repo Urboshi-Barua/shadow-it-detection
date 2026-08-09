@@ -1,0 +1,13 @@
+feature,importance
+unique_pc_count,0.168474
+logoff_frequency,0.149152
+unique_files_accessed,0.127738
+logon_frequency,0.119914
+http_request_frequency,0.108528
+unique_domains_visited,0.098925
+file_access_frequency,0.094603
+unique_pc_file,0.063497
+after_hours_logon,0.038474
+after_hours_http,0.016022
+risky_domain_visit_count,0.013482
+after_hours_file,0.001191

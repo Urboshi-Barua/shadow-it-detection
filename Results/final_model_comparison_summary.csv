@@ -1,0 +1,11 @@
+Model,Threshold,Precision,Recall,F1-Score,Benign rows flagged,Workload reduction
+Random Forest,Default (0.50),0.0,0.0,0.0,0,1.0
+Random Forest,Optimized (0.000),0.0002,1.0,0.0004,13917,-0.0002
+Logistic Regression,Default (0.50),0.0,0.0,0.0,8,0.9994
+Decision Tree,Default (0.50),0.0,0.0,0.0,0,1.0
+Isolation Forest,Default (contamination cutoff),0.0,0.0,0.0,6,0.9996
+Isolation Forest,Optimized (0.519),0.0019,1.0,0.0039,1549,0.8887
+Local Outlier Factor,Default (contamination cutoff),0.0,0.0,0.0,18,0.9987
+Local Outlier Factor,Optimized (-4.319),0.001,0.3333,0.002,984,0.9293
+One-Class SVM,Default (nu cutoff),0.0,0.0,0.0,339,0.9756
+One-Class SVM,Optimized (-0.153),0.0005,0.3333,0.0011,1850,0.867
