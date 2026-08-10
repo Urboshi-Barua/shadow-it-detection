@@ -1,4 +1,4 @@
-# Detecting Insider-Driven Data Exfiltration via Shadow IT and Unauthorized Cloud Storage
+# The Technical Impact of Shadow IT and Unauthorized Cloud Storage on Corporate Data Exfiltration
 
 **Group 8**
 *(Labiba Sarwar Taznuha (220078), Subah Mamun (220033), Urboshi Barua (230047), Nawfa Nawar (220136))*
